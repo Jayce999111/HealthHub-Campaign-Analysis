@@ -2,7 +2,7 @@
 
 ## Project Background
 
-HealthHub is a healthcare company focused on delivering high-quality health services and promoting awareness through targeted campaigns.
+HealthHub is a healthcare company focused on delivering high-quality health services and promoting awareness through targeted campaigns via its website and mobile app.
 
 The company has significant amounts of data on its sales, campaigns, operational efficiency, plan offerings, and loyalty programs that have been previously underutilized. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve HealthHub's commercial success.
 
@@ -15,3 +15,5 @@ The company has significant amounts of data on its sales, campaigns, operational
 - **Seasonal and Time-Based Trends:** Examination of how seasonal trends affect signup patterns and the effectiveness of timing in campaign launches.
 
 - **Cost Analysis:** A detailed review of the costs associated with each campaign type, highlighting areas for optimization and efficiency in marketing spend.
+
+![ERD Diagram](./images/EDR.png)
