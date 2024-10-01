@@ -2,7 +2,9 @@
 
 ## Project Background
 
-HealthHub is a fictional healthcare company focused on delivering high-quality health services and promoting awareness through targeted campaigns. With a mission to enhance community health, HealthHub conducts various campaigns, including vaccination drives, mental health awareness programs, and chronic disease management initiatives. The goal of this project is to analyze the effectiveness of these campaigns based on signup data over a four-year period (2020-2024).
+HealthHub is a healthcare company focused on delivering high-quality health services and promoting awareness through targeted campaigns.
+
+The company has significant amounts of data on its sales, campaigns, operational efficiency, plan offerings, and loyalty programs that have been previously underutilized. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve HealthHub's commercial success.
 
 ### Insights and Recommendations are provided on the following key areas:
 
@@ -12,4 +14,4 @@ HealthHub is a fictional healthcare company focused on delivering high-quality h
 
 - **Seasonal and Time-Based Trends:** Examination of how seasonal trends affect signup patterns and the effectiveness of timing in campaign launches.
 
-- **Cost Analysis:** A detailed review of the cost associated with each campaign type, highlighting areas for optimization and efficiency in marketing spend.
+- **Cost Analysis:** A detailed review of the costs associated with each campaign type, highlighting areas for optimization and efficiency in marketing spend.
