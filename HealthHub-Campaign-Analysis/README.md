@@ -29,3 +29,11 @@ After peaking in late 2021, HealthHub's sales significantly declined by 2022. Ke
 Below is an overview page from the Power BI dashboard, with more examples included throughout the report. The entire interactive dashboard can be downloaded [here](#).
 ---
 ![Overview Diagram](./images/overview.png)
+
+### Sales Trends:
+
+- The company's sales peaked in 2021 with **1,541,000 orders**, totaling **$7,560,146** in yearly revenue. This peak aligns with the surge in healthcare demand during the COVID-19 pandemic, as consumer behavior shifted with more people seeking healthcare services and products online.
+- Starting in the first quarter of 2023, the average order value (AOV) dropped year-over-year for 24 consecutive months, marking a **21% decrease** compared to the previous year’s AOV.
+- Despite this decline in AOV, both signups and revenue have increased as more customers are joining campaigns. Though customers are opting for lower-priced campaigns more frequently, the increased transaction volume pushed the company’s revenue to an all-time high of **$8,320,576**.
+- A significant drop in AOV was also observed in early 2020, largely due to the lower-cost **COVID-19 Vaccination Drive** campaign, which contributed to the overall decrease.
+![Salesview Diagram](./images/sales_trend.png)
