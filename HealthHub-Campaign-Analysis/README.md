@@ -45,3 +45,9 @@ Below is an overview page from the Power BI dashboard, with more examples includ
 - The **COVID Awareness** category has underperformed, contributing only **5.31%** of total revenues and orders, despite having one of the lowest signup costs.
 - The **Telehealth Access Initiative** campaign has continued to grow since 2021, reaching **9.86%** in 2024. It remains one of the largest revenue contributors, accounting for **23%** of total revenue.
 
+![Media Diagram](./images/conversion_trend.png)
+### Campaign Summary:
+
+- **Social Media** shows high engagement, with campaigns like the **COVID-19 Vaccination Drive** achieving the highest conversion rate of **37.5%**, while the **Seasonal Flu Vaccination** follows closely at **32.61%**.
+- Interestingly, **TV** campaigns, despite being traditionally broad-reach, exhibit lower conversion rates, such as **Mental Wellness Awareness** at **25%** and **Heart Health Awareness Drive** at **21.82%**.
+- **Email** platforms, used for the **Telehealth Access Initiative** and **Diabetes Management Program**, have steady conversion rates (around **27%**), reflecting targeted reach but slightly lower engagement compared to social media-driven campaigns.
