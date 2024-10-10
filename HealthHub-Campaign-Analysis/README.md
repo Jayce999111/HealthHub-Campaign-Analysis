@@ -45,9 +45,24 @@ Below is an overview page from the Power BI dashboard, with more examples includ
 - The **COVID Awareness** category has underperformed, contributing only **5.31%** of total revenues and orders, despite having one of the lowest signup costs.
 - The **Telehealth Access Initiative** campaign has continued to grow since 2021, reaching **9.86%** in 2024. It remains one of the largest revenue contributors, accounting for **23%** of total revenue.
 
-![Media Diagram](./images/conversion_trend.png)
+
 ### Campaign Summary:
 
 - **Social Media** shows high engagement, with campaigns like the **COVID-19 Vaccination Drive** achieving the highest conversion rate of **37.5%**, while the **Seasonal Flu Vaccination** follows closely at **32.61%**.
 - Interestingly, **TV** campaigns, despite being traditionally broad-reach, exhibit lower conversion rates, such as **Mental Wellness Awareness** at **25%** and **Heart Health Awareness Drive** at **21.82%**.
 - **Email** platforms, used for the **Telehealth Access Initiative** and **Diabetes Management Program**, have steady conversion rates (around **27%**), reflecting targeted reach but slightly lower engagement compared to social media-driven campaigns.
+![Media Diagram](./images/conversion_trend.png)
+
+### Recommendations:
+
+Based on the uncovered insights, the following recommendations have been provided:
+
+- With **55%** of the orders and revenue coming from just four campaigns, diversifying the offerings is crucial. Expanding the media strategy for promoting these campaigns, particularly through social media, could provide upsell opportunities.
+
+- Leverage customer feedback from underperforming campaigns, like the COVID Awareness category, to improve messaging and engagement strategies. Conducting surveys or focus groups could help identify customer needs and preferences, leading to more effective campaigns.
+
+- Implement a referral program for existing customers to encourage new signups, particularly for successful campaigns. Offering incentives for referrals can help increase the customer base and drive revenue growth without substantial marketing costs.
+
+- Despite the general sales success of the COVID-19 campaign, vaccine sales have been disappointingly low, contributing only **5%** of revenue in 2024. Enhancing marketing efforts targeting previous vaccine users for booster shots could significantly boost sales.
+
+- Capitalize on the growing share of the Telehealth Access Initiative campaign by introducing higher-cost, higher-value campaigns within the same category, such as specialized consultations or premium health packages.
