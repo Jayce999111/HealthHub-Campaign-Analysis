@@ -22,11 +22,14 @@ The company has accumulated significant amounts of data on its sales, campaigns,
 
 ## Executive Summary
 
-## Overview of Findings
+### Overview of Findings:
 
 After peaking in late 2021, HealthHub's sales significantly declined by 2022. Key performance indicators show two consecutive years of increases in order volume and revenue by **6.67%**, with the **average signup cost** now at **$3.30**. While these increases can be broadly attributed to a return to pre-pandemic normalcy, additional contributing factors are explored in the following sections, which also highlight key opportunities for improvement.
+
 Below is an overview page from the Power BI dashboard, with more examples included throughout the report. The entire interactive dashboard can be downloaded [here](#).
+
 ---
+
 ![Overview Diagram](./images/overview.png)
 
 ### Sales Trends:
