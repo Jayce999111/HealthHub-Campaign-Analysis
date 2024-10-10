@@ -39,3 +39,9 @@ Below is an overview page from the Power BI dashboard, with more examples includ
 - Despite this decline in AOV, both signups and revenue have increased as more customers are joining campaigns. Though customers are opting for lower-priced campaigns more frequently, the increased transaction volume pushed the company’s revenue to an all-time high of **$8,320,576**.
 - A significant drop in AOV was also observed in early 2020, largely due to the lower-cost **COVID-19 Vaccination Drive** campaign, which contributed to the overall decrease.
 ![Salesview Diagram](./images/sales_trend.png)
+### Product Performance:
+
+- **55%** of the company's **orders** come from just four campaigns: COVID-19 Vaccination Drive, Telehealth Access Initiative, Community Wellness Programs, and Mental Wellness Program, These four campaigns account for **$4.61 million** in revenue in 2024.
+- The **COVID Awareness** category has underperformed, contributing only **5.31%** of total revenues and orders, despite having one of the lowest signup costs.
+- The **Telehealth Access Initiative** campaign has continued to grow since 2021, reaching **9.86%** in 2024. It remains one of the largest revenue contributors, accounting for **23%** of total revenue.
+
