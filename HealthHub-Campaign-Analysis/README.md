@@ -59,9 +59,9 @@ Based on the uncovered insights, the following recommendations have been provide
 
 - With **55%** of the orders and revenue coming from just four campaigns, diversifying the offerings is crucial. Expanding the media strategy for promoting these campaigns, particularly through social media, could provide upsell opportunities.
 
-- Leverage customer feedback from underperforming campaigns, like the COVID Awareness category, to improve messaging and engagement strategies. Conducting surveys or focus groups could help identify customer needs and preferences, leading to more effective campaigns.
+- Creating loyalty programs to boost conversion rates: In order to convert non-members, consider offering a one-time-only sign-up discount with increased general marketing of membership benefits and savings. Focus targeted and personalized ads on previous customers, and utilize past signup data to increase marketing efforts when previously purchased products may need updating.
 
-- Implement a referral program for existing customers to encourage new signups, particularly for successful campaigns. Offering incentives for referrals can help increase the customer base and drive revenue growth without substantial marketing costs.
+- Focus on Volume-Driven Campaigns: Based on our sales trend that shows users are more likely to sign up for lower-cost campaigns, which actually increases revenue compared to campaigns with a higher order value, we could create multiple, frequent campaigns with affordable entry points. This strategy allows us to leverage the demand for lower-priced options, boosting participation and driving higher cumulative revenue.
 
 - Despite the general sales success of the COVID-19 campaign, vaccine sales have been disappointingly low, contributing only **5%** of revenue in 2024. Enhancing marketing efforts targeting previous vaccine users for booster shots could significantly boost sales.
 
