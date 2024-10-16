@@ -59,9 +59,9 @@ Based on the uncovered insights, the following recommendations have been provide
 
 - With **55%** of the orders and revenue coming from just four campaigns, diversifying the offerings is crucial. Expanding the media strategy for promoting these campaigns, particularly through social media, could provide upsell opportunities.
 
-- Creating loyalty programs to boost conversion rates: In order to convert non-members, consider offering a one-time-only sign-up discount with increased general marketing of membership benefits and savings. Focus targeted and personalized ads on previous customers, and utilize past signup data to increase marketing efforts when previously purchased products may need updating.
+- Creating loyalty programs to boost conversion rates: In order to convert non-members, consider offering a one-time-only sign-up discount with increased general marketing of membership benefits and savings. Focus targeted and personalized ads on previous customers, and utilize past signup data to increase marketing efforts when previously purchased products need updating.
 
-- Focus on Volume-Driven Campaigns: Based on our sales trend that shows users are more likely to sign up for lower-cost campaigns, which actually increases revenue compared to campaigns with a higher order value, we could create multiple, frequent campaigns with affordable entry points. This strategy allows us to leverage the demand for lower-priced options, boosting participation and driving higher cumulative revenue.
+- Focus on Volume-Driven Campaigns: Based on sales trends users are more likely to sign up for lower-cost campaigns, creating multiple frequent campaigns with affordable entry points. This strategy leverages the demand for lower-priced options it will boosting participation and driving higher cumulative revenue.
 
 - Despite the general sales success of the COVID-19 campaign, vaccine sales have been disappointingly low, contributing only **5%** of revenue in 2024. Enhancing marketing efforts targeting previous vaccine users for booster shots could significantly boost sales.
 
