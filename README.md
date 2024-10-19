@@ -16,7 +16,7 @@ The company has accumulated significant amounts of data on its sales, campaigns,
 
 - **Cost Analysis**: A detailed review of the costs associated with each campaign type, highlighting areas for optimization and efficiency in marketing spend.
 
-![ERD Diagram](./images/EDR.png)
+![ERD Diagram](HealthHub-Campaign-Analysis/images/EDR.png)
 
 ---
 
