@@ -9,7 +9,7 @@ The company has accumulated significant amounts of data on its sales, campaigns,
 ### Key Insights and Recommendations:
 
 - **Signup Trends Analysis**: Evaluation of historical signup patterns, both **globally** and **by campaign type**, focusing on total signups, cost, and Average Order Value (AOV).
-  
+
 - **Click Conversion Rate into Signups**: An analysis of HealthHub's various campaign types to understand their impact on signups and the value they bring to the organization.
 
 - **Seasonal and Time-Based Trends**: An examination of how seasonal trends affect signup patterns and the effectiveness of timing in campaign launches.
@@ -31,7 +31,6 @@ Below is an overview page from the Power BI dashboard, with more examples includ
 ---
 
 ![Overview Diagram](HealthHub-Campaign-Analysis/images/overview.png)
-
 ### Sales Trends:
 
 - The company's sales peaked in 2021 with **1,541,000 orders**, totaling **$7,560,146** in yearly revenue. This peak aligns with the surge in healthcare demand during the COVID-19 pandemic, as consumer behavior shifted with more people seeking healthcare services and products online.
@@ -57,7 +56,7 @@ Below is an overview page from the Power BI dashboard, with more examples includ
 
 Based on the uncovered insights, the following recommendations have been provided:
 
-- With **55%** of the orders and revenue coming from just four campaigns, diversifying the offerings is crucial. Expanding the media strategy for promoting these campaigns, particularly through social media, could provide upsell opportunities.
+- With **55%** of the orders and revenue coming from just four campaigns COVID-19 Vaccination Drive, Telehealth Access Initiative, Community Wellness Programs, and Mental Wellness Program, diversifying the offerings is crucial. Expanding the media strategy for promoting these campaigns, particularly through social media, could provide upsell opportunities.
 
 - Creating loyalty programs to boost conversion rates: In order to convert non-members, consider offering a one-time-only sign-up discount with increased general marketing of membership benefits and savings. Focus targeted and personalized ads on previous customers, and utilize past signup data to increase marketing efforts when previously purchased products need updating.
 
