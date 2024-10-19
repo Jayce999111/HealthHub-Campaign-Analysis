@@ -16,7 +16,7 @@ The company has accumulated significant amounts of data on its sales, campaigns,
 
 - **Cost Analysis**: A detailed review of the costs associated with each campaign type, highlighting areas for optimization and efficiency in marketing spend.
 
-![ERD Diagram](HealthHub-Campaign-Analysis/images/EDR.png)
+![ERD Diagram](./images/EDR.png)
 
 ---
 
@@ -30,7 +30,7 @@ Below is an overview page from the Power BI dashboard, with more examples includ
 
 ---
 
-![Overview Diagram](HealthHub-Campaign-Analysis/images/overview.png)
+![Overview Diagram](./images/overview.png)
 
 ### Sales Trends:
 
@@ -38,7 +38,7 @@ Below is an overview page from the Power BI dashboard, with more examples includ
 - Starting in the first quarter of 2023, the average order value (AOV) dropped year-over-year for 24 consecutive months, marking a **21% decrease** compared to the previous year’s AOV.
 - Despite this decline in AOV, both signups and revenue have increased as more customers are joining campaigns. Though customers are opting for lower-priced campaigns more frequently, the increased transaction volume pushed the company’s revenue to an all-time high of **$8,320,576**.
 - A significant drop in AOV was also observed in early 2020, largely due to the lower-cost **COVID-19 Vaccination Drive** campaign, which contributed to the overall decrease.
-![Salesview Diagram](HealthHub-Campaign-Analysis/images/sales_trend.png)
+![Salesview Diagram](./images/sales_trend.png)
 ### Product Performance:
 
 - **55%** of the company's **orders** come from just four campaigns: COVID-19 Vaccination Drive, Telehealth Access Initiative, Community Wellness Programs, and Mental Wellness Program, These four campaigns account for **$4.61 million** in revenue in 2024.
@@ -51,13 +51,13 @@ Below is an overview page from the Power BI dashboard, with more examples includ
 - **Social Media** shows high engagement, with campaigns like the **COVID-19 Vaccination Drive** achieving the highest conversion rate of **37.5%**, while the **Seasonal Flu Vaccination** follows closely at **32.61%**.
 - Interestingly, **TV** campaigns, despite being traditionally broad-reach, exhibit lower conversion rates, such as **Mental Wellness Awareness** at **25%** and **Heart Health Awareness Drive** at **21.82%**.
 - **Email** platforms, used for the **Telehealth Access Initiative** and **Diabetes Management Program**, have steady conversion rates (around **27%**), reflecting targeted reach but slightly lower engagement compared to social media-driven campaigns.
-![Media Diagram](HealthHub-Campaign-Analysis/images/conversion_trend.png)
+![Media Diagram](./images/conversion_trend.png)
 
 ### Recommendations:
 
 Based on the uncovered insights, the following recommendations have been provided:
 
-- With **55%** of the orders and revenue coming from just four campaigns, diversifying the offerings is crucial. Expanding the media strategy for promoting these campaigns, particularly through social media, could provide upsell opportunities.
+- With **55%** of the orders and revenue coming from just four campaigns COVID-19 Vaccination Drive, Telehealth Access Initiative, Community Wellness Programs, and Mental Wellness Program, diversifying the offerings is crucial. Expanding the media strategy for promoting these campaigns, particularly through social media, could provide upsell opportunities.
 
 - Creating loyalty programs to boost conversion rates: In order to convert non-members, consider offering a one-time-only sign-up discount with increased general marketing of membership benefits and savings. Focus targeted and personalized ads on previous customers, and utilize past signup data to increase marketing efforts when previously purchased products need updating.
 
