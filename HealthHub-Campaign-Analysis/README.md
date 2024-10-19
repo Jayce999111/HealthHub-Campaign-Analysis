@@ -57,7 +57,7 @@ Below is an overview page from the Power BI dashboard, with more examples includ
 
 Based on the uncovered insights, the following recommendations have been provided:
 
-- With **55%** of the orders and revenue coming from just four campaigns, diversifying the offerings is crucial. Expanding the media strategy for promoting these campaigns, particularly through social media, could provide upsell opportunities.
+- With **55%** of the orders and revenue coming from just four campaigns COVID-19 Vaccination Drive, Telehealth Access Initiative, Community Wellness Programs, and Mental Wellness Program, diversifying the offerings is crucial. Expanding the media strategy for promoting these campaigns, particularly through social media, could provide upsell opportunities.
 
 - Creating loyalty programs to boost conversion rates: In order to convert non-members, consider offering a one-time-only sign-up discount with increased general marketing of membership benefits and savings. Focus targeted and personalized ads on previous customers, and utilize past signup data to increase marketing efforts when previously purchased products need updating.
 
